@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: INFO
+  com:
+    cgtfarmer: INFO
+
+info:
+  build:
+    artifact: '@project.artifactId@'
+    name: '@project.name@'
+    version: '@project.version@'
